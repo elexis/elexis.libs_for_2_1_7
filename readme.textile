@@ -1,3 +1,5 @@
+h1. Archived
+
 h1. A simple P2-site for Elexis 2.17
 
 Contains the build script to generate a P2-site with most of the libraries neede for Elexis 2.1.7.x
@@ -15,4 +17,4 @@ h2. Publishing
 
 To publish use something like
 
-bc. scp -r elexis.libs_for_2_1_7/p2repository/ uusername@medelexis.ch:/srv/ftp/downloads_opensource/p2sites/elexis.libs_for_2_1_7
+bc. scp -r elexis.libs_for_2_1_7/p2repository/ uusername@medelexis.ch:/srv/ftp/downloads_opensource/p2sites/elexis.libs_for_2_1_
